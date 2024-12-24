@@ -1,3 +1,4 @@
+#Problem Statement
 The goal of this practice project is to develop and evaluate various machine learning models,
 Single layer Perceptron and Multilayer Neural Networks for digit recognition. 
 The dataset consists of images of handwritten digits (0-9) and the task is to correctly classify each image into its corresponding digit.
